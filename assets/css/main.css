@@ -1,0 +1,9 @@
+@import 'style.css';
+@import 'bootstrap.min.css';
+@import 'fa-all.min.css';
+
+/*---------------------------------------SCROLLBAR-------------------------------------------*/
+html {
+  --scrollbarBG: black;
+  --thumbBG: #ff90b0;
+}
